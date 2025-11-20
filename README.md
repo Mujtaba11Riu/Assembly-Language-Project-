@@ -4,8 +4,9 @@
 **Language:** Assembly (MASM / TASM)  
 **Platform:** DOS / 8086 Architecture  
 
-BS Cyber Security 3rd Semester ( BS CY3-1 )
-Assembly Language Final Project (Semester Project)
+**BS Cyber Security 3rd Semester ( BS CY3-1 )**
+
+**Assembly Language Final Project (Semester Project)**
 ---
 
 ## Project Overview 📝
