@@ -1,9 +1,9 @@
 # Assembly-Language-Project-
 
-# Title- : Meal Ordering System — Assembly Language (8086)
+ Title- : Meal Ordering System — Assembly Language (8086)
 # Author: Syed Mujtaba Zaidi
-# Language: Assembly (MASM / TASM)
-# Platform: DOS / 8086 Architecture
+ Language: Assembly (MASM / TASM)
+ Platform: DOS / 8086 Architecture
 
 # Project-Overview- 📝
 
